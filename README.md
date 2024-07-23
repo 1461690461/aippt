@@ -58,3 +58,6 @@ https://docmee.cn/open-platform
 商业合作 & 进群交流：
 
 ![qrcode](https://metasign-public.oss-cn-shanghai.aliyuncs.com/github/contact_me_qr.png)
+
+
+[![Star History Chart](https://api.star-history.com/svg?repos=veasion/aippt&type=Date)](https://star-history.com/#veasion/aippt&Date)
