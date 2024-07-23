@@ -10,7 +10,7 @@
 	<span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
 	<a href="https://veasion.github.io/aippt/ppt2json.html" target="_blank">📝PPT转JSON</a>
 	<span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-	<a href="#+🤝+商业合作">💬合作交流</a>
+	<a href="#-商业合作">💬合作交流</a>
 </p>
 
 
@@ -27,6 +27,7 @@
 
 
 
+
 # ✨ AiPPT
 
 在线体验：https://veasion.github.io/aippt
@@ -35,6 +36,7 @@
 [演示视频](https://metasign-public.oss-cn-shanghai.aliyuncs.com/github/aippt.mp4)
 
 https://github.com/veasion/aippt/assets/24989778/24d5654b-09f3-4554-a732-dbffc1073a1d
+
 
 
 
