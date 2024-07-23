@@ -60,4 +60,5 @@ https://docmee.cn/open-platform
 ![qrcode](https://metasign-public.oss-cn-shanghai.aliyuncs.com/github/contact_me_qr.png)
 
 
+Star History
 [![Star History Chart](https://api.star-history.com/svg?repos=veasion/aippt&type=Date)](https://star-history.com/#veasion/aippt&Date)
