@@ -1,4 +1,4 @@
-<img src="https://docmee.cn/favicons/favicon-32x32.png" alt="logo"/>
+<img src="https://docmee.cn/favicons/favicon-32x32.png" alt="logo" align="center"/>
 <h1 align="center">文多多 AiPPT</h1>
 <p align="center">
   简体中文 | <a href="./README_EN.md">English</a>
